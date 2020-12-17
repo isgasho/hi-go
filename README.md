@@ -1,24 +1,4 @@
 # go
-go相关的技术罗列
-- 算法
-- 网络
-- 操作系统（Linux）
-- MySQL ：数据库
-- Redis ：缓存数据库
-- etcd：分布式数据库
-- gPRC ：分布式框架 记住 分布式 约等于 PRC
-- go-micro ： 微服务框架
-- nsq| nats：消息队列框架
-- gin ：web服务框架
-- docker ：容器
-- k8s ：容器管理框架
-- GORM go语言的orm框架
-- urfave/cli go版本的cli框架
-- colly go的爬虫框架
-- glog go的日志管理框架
-- testify go的测试断言包，跟testing包一起合作使用极佳。
-- delve 运行时调试
-## 主题
 - [go自带数据结构底层分析](./go自带数据结构的底层分析.md)
 - [常见控制结构实现原理分析](./常见控制结构实现原理分析.md)
 - [go中的坑](./go中的坑.md)
@@ -40,7 +20,25 @@ go相关的技术罗列
 - [go中mutext和channel以及ticker的底层实现原理](./go中mutext和channel以及ticker的底层实现原理.md)
 - [go语言中的基础类型](./go语言中的基础类型.md)
 - [go 动态调试](./go动态调试.md)
-
+## go相关的技术罗列
+- 算法
+- 网络
+- 操作系统（Linux）
+- MySQL ：数据库
+- Redis ：缓存数据库
+- etcd：分布式数据库
+- gPRC ：分布式框架 记住 分布式 约等于 PRC
+- go-micro ： 微服务框架
+- nsq| nats：消息队列框架
+- gin ：web服务框架
+- docker ：容器
+- k8s ：容器管理框架
+- GORM go语言的orm框架
+- urfave/cli go版本的cli框架
+- colly go的爬虫框架
+- glog go的日志管理框架
+- testify go的测试断言包，跟testing包一起合作使用极佳。
+- delve 运行时调试
 ## 推荐读文
 - go语言圣经
 - [go语言进阶](https://rainbowmango.gitbook.io/go/)
